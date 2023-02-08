@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Aby
-- 👀 I’m interested in Data Analysics
-- 🌱 I’m currently learning Masters In Computer Application
+- 👀 Python Developer
+- ✨ Intrested in Machine Learning
+- 🌱 MCA Graduate
 - 
 
 
