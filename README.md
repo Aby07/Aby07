@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Aby
-- 👀 Python Developer
-- Odoo Specialized
-- ✨ Intrested in Machine Learning
-- 🌱 MCA Graduate
-- Python/Odoo Developer With 1.7 Year Experience
+- Hi, I’m @Aby
+- Software Engineer/Python Developer
+- Cybersecurity Enthusiast
+- Intrested in Ethical hacking
+- MCA Graduate
+- 1.8 Year Experience in software development specialized in Odoo Erp development
 
 
 <!---
