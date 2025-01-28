@@ -1,5 +1,5 @@
 - Hi, I’m @Aby
-- Software Engineer/Python Developer
+- Software Engineer-Python Developer
 - Cybersecurity Enthusiast
 - Intrested in Ethical hacking
 - MCA Graduate
